@@ -22,6 +22,7 @@ pip install -r requirements.txt
 ```
 
 ```
+# 有新東西要上傳的時候
 git pull origin main
 git add .
 git commit -m "隨便你要什麼名字“
