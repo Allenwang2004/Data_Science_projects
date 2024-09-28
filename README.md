@@ -18,4 +18,6 @@ cd kaggle
 
 # 一鍵按照 requirements.txt 安裝所有需要的套件與指定版本
 pip install -r requirements.txt
+
+#我是歐佳俞我超級聰明的拉哈哈好哈哈哈哈好
 ```
